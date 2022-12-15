@@ -20,3 +20,8 @@ Probability of fitness: value/sum (fitness_array)
 Pillow
 Numpy
 Random
+
+# References: 
+I will also recommned watching the below videos to get a better understanding.
+https://www.youtube.com/watch?v=vmQ49mRhGGw&t=1248s&ab_channel=Dr.HarishGarg
+https://www.youtube.com/watch?v=U9ah51wjvgo&t=1322s&ab_channel=NPTELIITGuwahati
