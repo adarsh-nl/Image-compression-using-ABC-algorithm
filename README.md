@@ -16,7 +16,7 @@ Fitness function: 1/(1+value) if value is > 0. Else just 1+value.
 
 Probability of fitness: value/sum (fitness_array)
 
-#Required libraries.
+# Required libraries.
 Pillow
 Numpy
 Random
